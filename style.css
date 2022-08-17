@@ -1,0 +1,40 @@
+p {
+    color: black;
+    background-color: white;
+    font-size: 18px;
+    font-family: 'Times New Roman', Serif;
+    text-align: left;
+ }
+
+ .blurb { 
+    display: block;
+    text-align: justify;
+    padding-left: 3in;
+    padding-right: 3in;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+ }
+
+h1 { 
+    color: white; 
+    background-color: blue;
+    font-size:32px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.header { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.home .btn-1 {
+    color: white;
+    background-color: blue;
+    font-size: 18px;
+}
+.main-recipes { 
+    font-size: medium;
+    color: blue;
+}
